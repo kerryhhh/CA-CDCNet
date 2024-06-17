@@ -1,0 +1,5 @@
+/data/xiziyi/DALLE/DALLE_256_JPG/19097.jpg 0
+/data/xiziyi/DALLE/DALLE_256_JPG/8424.jpg 0
+/data/xiziyi/DALLE/DALLE_256_JPG/14611.jpg 0
+/data/xiziyi/DALLE/DALLE_256_JPG/11972.jpg 0
+/data/xiziyi/DALLE/DALLE_256_JPG/2149.jpg 0
